@@ -13,22 +13,6 @@ Subnet Calculator in Go
 
 Provides each data in dotted quads, hexadecimal, and binary formats, as well as array of quads.
 
-## Usages
-
-### Install
-
-```go
-go get -u github.com/brotherpowers/ipsubnet
-```
-
-### Get Started
-
-```go
-import "github.com/brotherpowers/ipsubnet"
-
-sub := ipsubnet.SubnetCalculator("192.168.112.203", 23)
-```
-
 
 ### Get Network Information
 
